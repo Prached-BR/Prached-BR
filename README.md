@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prached-BR
 - 👀 I’m interested in ... certificate; curses and learning.
-- 🌱 I’m currently learning ... CC50 Harvard and Analise e Desenvolvimento de Sistemas University Positivo.
+- 🌱 I’m currently learning ... CS50 Harvard and Analise e Desenvolvimento de Sistemas University Positivo.
 - 💞️ I’m looking to collaborate on ... to pratice my english.
 - 📫 How to reach me ...
 
